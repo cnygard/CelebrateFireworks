@@ -1,5 +1,4 @@
-Run with
+# Usage
+```python3 celebrate.py <program>```
 
-$ python3 celbrate.py \<program\>
-
-where \<program\> is a program that outputs some number of "ok"s and "FAIL"s.
+```<program>``` is a expects a testing framework that outputs some number of "ok"s and "FAIL"s.
